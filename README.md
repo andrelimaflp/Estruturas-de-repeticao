@@ -1,2 +1,2 @@
-# Estruturas-de-repeticao
+# EstruturasDeRepeticao
 Estruturas de repetição, curso DIO/GFT
